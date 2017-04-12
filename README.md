@@ -13,7 +13,7 @@ Jag tänker konsekvent skriva på svengelska i den här guiden, för att förhop
 För att ändra på filerna i ett repository, skapa en klon av det på din lokala maskin. För att skapa en klon av det här repot, gör såhär:
 
 ```bash
-git clone git@github.com:Rembane/a-style-of-prolog.git
+git clone git@github.com:Rembane/a-style-of-postcon.git
 ```
 
 Ändra på filer som vanligt med din favorittexteditor, när du börjar känna dig nöjd kan du committa dina förändringar lokalt. Så kommer Git ihåg dem åt dig.
